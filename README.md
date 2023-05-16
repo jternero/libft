@@ -7,7 +7,7 @@ Este proyecto es mi primer trabajo entregado y contiene una variedad de funcione
 
 Las funciones incluidas en Libft son:
 
-- `Makefile`: Este archivo es utilizado para compilar la biblioteca de funciones. Puede usar el comando `make` para compilar la biblioteca y generar el archivo `libmibiblioteca.a`.
+- `Makefile`: Este archivo es utilizado para compilar la biblioteca de funciones. Puede usar el comando `make` para compilar la biblioteca y generar el archivo `libft.a`.
 
 - `libft.h`: Este archivo es el archivo de cabecera que contiene las declaraciones de todas las funciones de la biblioteca. Este archivo debe ser incluido en cualquier archivo fuente que use las funciones de la biblioteca.
 
