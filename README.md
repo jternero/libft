@@ -98,19 +98,3 @@ Las funciones incluidas en Libft son:
 - `ft_toupper.c`: Esta función convierte una letra minúscula en su correspondiente letra mayúscula.
 
 Espero que esta información sea útil. Si necesitas más ayuda, ¡no dudes en preguntar!
-
-## Cómo compilar y usar MiBiblioteca
-
-Para compilar MiBiblioteca, simplemente ejecute el comando `make` en la línea de comandos dentro del directorio del proyecto. Esto compilará la biblioteca y generará el archivo `libmibiblioteca.a`.
-
-Para utilizar MiBiblioteca en su propio proyecto, incluya el archivo `libft.h` en su archivo fuente y utilice las funciones como lo haría con cualquier otra biblioteca.
-
-## Contribuciones
-
-Si desea contribuir a MiBiblioteca, ¡no dude en enviar una solicitud de extracción! Aprecio todos los comentarios y sugerencias para mejorar y expandir este proyecto.
-
-## Agradecimientos
-
-Me gustaría agradecer a la comunidad de programación por inspirarme y ayudarme a crecer como programador. También me gustaría agradecer a mi universidad y mis profesores por brindarme la oportunidad de aprender y crecer en esta apasionante área.
-
-¡Gracias por visitar MiBiblioteca y espero que encuentres estas funciones útiles en tus propios proyectos!
